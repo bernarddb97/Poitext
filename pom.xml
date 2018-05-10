@@ -146,13 +146,12 @@
 		</dependency>
 		-->
 
-		<!-- pdfHTML 
+		<!-- pdfHTML -->
 		<dependency>
 			<groupId>com.itextpdf</groupId>
 			<artifactId>html2pdf</artifactId>
 			<version>2.0.0</version>
 		</dependency>
-		-->
 
 		<dependency>
 			<groupId>org.apache.poi</groupId>
