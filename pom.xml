@@ -59,13 +59,12 @@
 			<version>2.0.0</version>
 		</dependency>
 
-		<!-- only needed for Asian fonts 
+		<!-- only needed for Asian fonts -->
 		<dependency>
 			<groupId>com.itextpdf</groupId>
 			<artifactId>font-asian</artifactId>
 			<version>7.1.0</version>
 		</dependency>
-		-->
 
 		<!-- always needed 
 		<dependency>
